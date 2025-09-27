@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/school-fundraising/static/css/main.ff1a9648.css",
+    "main.js": "/school-fundraising/static/js/main.48e791b0.js",
+    "static/js/453.2a4ef863.chunk.js": "/school-fundraising/static/js/453.2a4ef863.chunk.js",
+    "index.html": "/school-fundraising/index.html",
+    "main.ff1a9648.css.map": "/school-fundraising/static/css/main.ff1a9648.css.map",
+    "main.48e791b0.js.map": "/school-fundraising/static/js/main.48e791b0.js.map",
+    "453.2a4ef863.chunk.js.map": "/school-fundraising/static/js/453.2a4ef863.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff1a9648.css",
+    "static/js/main.48e791b0.js"
+  ]
+}
